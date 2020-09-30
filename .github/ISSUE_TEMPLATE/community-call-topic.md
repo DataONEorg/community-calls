@@ -7,18 +7,15 @@ assignees: ''
 
 ---
 
-# Topic Title
-_Provide a short title for the topic_
-
-### Topic Description
+## Topic Description
 _Provide a brief paragraph describing the topic_
 
 
-### Relationship to DataONE?
+## Relationship to DataONE?
 _Describe how this topic is relevant to the DataONE community, and who might be interested in the discussion and outcomes_
 
 
-### Possible speakers
+## Possible speakers
 
 
-### Related resources and links
+## Related resources and links
