@@ -1,3 +1,5 @@
+[![dataone_footer](https://www.dataone.org/sites/all/images/DataONE_LOGO.jpg)](http://dataone.org)
+
 # DataONE Community Calls
 
 [DataONE](https://dataone.org) holds a [DataONE community call](https://dataone.org/community-calls) approximately monthly to discuss issues and topics of relevance to the DataONE network. These are open for anyone to attend and help promote shared approaches to research data management centered on DataONE as a global data sharing network. Topics focus on issues that are central to data preservation and resuse for repositories, researchers, and others engaged in research data management. This repository is used to gather input and ideas for topics for these community calls. Community Calls are 1 hour long, typically include a short presentation or two to set the stage for discussion, and then focus on discussion for the remainder of the call. Topics focus on issues of importance to the DataONE network of repositories from both a repository perspective and a researcher perspective. 
