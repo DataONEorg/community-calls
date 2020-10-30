@@ -10,7 +10,7 @@ We ask for your ideas for [DataONE Community Call](https://dataone.org/community
 
 ## How to contribute your ideas
 
-We’ve [opened an issue in this repository for each topic we’re considering](https://github.com/DataONEorg/community-calls/issues). Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://dataone.org/code-of-conduct/).
+We’ve [opened an issue in this repository for each topic we’re considering](https://github.com/DataONEorg/community-calls/issues). Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://github.com/DataONEorg/community-calls/blob/master/code-of-conduct.md).
 
 - Show your interest in a [topic](https://github.com/DataONEorg/community-calls/issues) with a 👍🏼🎉🚀👎🏼😕
 - Add to an existing idea: propose speakers, resources, what else should we cover
