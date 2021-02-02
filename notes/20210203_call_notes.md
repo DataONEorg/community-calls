@@ -1,4 +1,6 @@
-#2021-02-04 DataONE Community Call
+# 2021-02-04 DataONE Community Call
+
+[![hackmd-github-sync-badge](https://hackmd.io/npMXMuvsTAuXHC8-mjomkQ/badge)](https://hackmd.io/npMXMuvsTAuXHC8-mjomkQ)
 
 **Topic**: How can DataONE interact with emerging networks
 
@@ -19,9 +21,8 @@ community needs while contributing to increased sustainability of network capabi
 * Pip Bricher
 * Matt Jones
 
-** High-level Agenda**
+**High-level Agenda**
 
 1. Introduction (5 min)
-1. minutes of introductions from the panelists
-2. 20-30 minutes of open discussion about connectivity and collaboration opportunities
-3. 10 minutes discussing next steps to move forward on near-term opportunities for network collaboration
+1. Introductions from the panelists (10-20 min)
+2. Discussion of next steps to move forward on near-term opportunities for network collaboration (Open discussion about connectivity and collaboration opportunities (10 min)
