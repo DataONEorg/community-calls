@@ -1,5 +1,8 @@
 # 2021-04-01 DataONE Community Call
 
+[![hackmd-github-sync-badge](https://hackmd.io/vUhA2UV2QkOJNuFEmtXs7w/badge)](https://hackmd.io/vUhA2UV2QkOJNuFEmtXs7w)
+
+
 **Topic:** Science on Schema.org Guidelines and Experiences
 
 **Time:**
