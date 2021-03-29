@@ -28,12 +28,18 @@ Australia/Sydney  2021-04-02 11:00:00 +1100
 
 **High-Level Agenda**
 
-* Brief introduction 
-* Schema.org primer (Chantelle)
-* Science-on-schema.org (Adam)
-* BCO-DMO (Adam)
-* Data Dryad (Daniella)
-* Hydroshare (Jeff)
+1. Brief introduction (5min, Karl)
+2. Introductions from panelists (20-30min)
+
+   1. Schema.org primer (Chantelle)
+   2. Science-on-schema.org (Adam)
+   3. BCO-DMO (Adam)
+   4. Data Dryad (Daniella)
+   5. Hydroshare (Jeff)
+   6. DataONE support (Dave)
+
+3. Discussion, Q/A
+
 
 
 
