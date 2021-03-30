@@ -1,5 +1,4 @@
 # Creating DataONE Community Call Notes
-#DataONE #Community
 
 ## Initial import from GitHub to HackMD
 1. Create a new note in the `/notes` folder using a naming convention like: `yyyymmdd_call_notes.md`. Add some initial content to the document (can be edited later).
