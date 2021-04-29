@@ -1,6 +1,6 @@
 # 2021-05-06 DataONE Community Call
 
-[![hackmd-github-sync-badge](https://hackmd.io/Za0HfLn0TZuDymkIhcEtuQ/badge)](https://hackmd.io/Za0HfLn0TZuDymkIhcEtuQ)
+[![hackmd-github-sync-badge](https://hackmd.io/Za0HfLn0TZuDymkIhcEtuQ/badge)](https://hackmd.io/@lIAJLMNZR8yz5kb09o6l5g/SkUgVBuwO)
 
 **Topic:** Data Licensing - a Discussion of Alternative Licenses
 
